@@ -1,0 +1,5 @@
+export const LOGIN_USER = "LOGIN_USER"
+export const LOGOUT_USER = "LOGOUT_USER"
+export const LOGIN_ERROR = "LOGIN_ERROR"
+export const TRY_SIGNIN = "TRY_SIGNIN"
+export const TRY_SIGNIN_FAILED = "TRY_SIGNIN_FAILED"
