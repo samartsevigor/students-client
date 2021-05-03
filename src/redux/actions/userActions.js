@@ -1,7 +1,7 @@
 import axios from "axios";
 import { LOGIN_USER, LOGOUT_USER } from "./types";
 import history from "../../history"
-import SERVER from '../serverUrl'
+import {SERVER} from '../serverUrl'
 
 export const login = (user) => {
   return (dispatch) => {

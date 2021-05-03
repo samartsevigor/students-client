@@ -1,1 +1,1 @@
-export default "https://server-312.herokuapp.com";
+export const SERVER =  "https://server-312.herokuapp.com";

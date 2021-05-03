@@ -1,5 +1,5 @@
 import axios from "axios";
-import SERVER from '../serverUrl'
+import {SERVER} from '../serverUrl'
 
 export const getStudentsList = () => {
   return async (dispatch) => {
